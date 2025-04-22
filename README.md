@@ -54,7 +54,7 @@ Scatter plots for price vs. rating correlations.
 
 Clone the repository:
 
-git clone https://github.com/kanishka-singh-solanki/Zomato-Data-Analysis.git
+git clone 
 
 Navigate to the project folder:
 
